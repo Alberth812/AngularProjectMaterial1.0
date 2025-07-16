@@ -1,59 +1,78 @@
 # Projectmaterial
+<img width="841" height="533" alt="imagen" src="https://github.com/user-attachments/assets/56392820-ca1a-496a-af43-9a339c02a80f" />
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 20.1.0.
 
-## Development server
+    Proyecto escolar desarrollado con Angular  y Angular Material  
 
-To start a local development server, run:
+     
 
-```bash
-ng serve
-```
+ 
+Propósito del Proyecto 
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Este proyecto tiene como objetivo mostrar cómo integrar y utilizar los componentes de Angular Material  en una aplicación real. Cada uno está implementado de forma sencilla y clara, permitiendo visualizar su funcionamiento y estilo. 
 
-## Code scaffolding
+Es ideal como referencia técnica o punto de partida para aprender a usar Angular Material en proyectos propios. 
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
 
-```bash
-ng generate component component-name
-```
+🧩 Proyecto Angular - Componentes 
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+Este proyecto fue generado usando la Angular CLI  versión 20.1.0. 
+ 
+🏗️ ¿Qué es Angular CLI? 
 
-```bash
-ng generate --help
-```
+La Angular CLI  (Command Line Interface) es una herramienta de línea de comandos que permite crear, desarrollar, probar, desplegar y mantener aplicaciones Angular desde la terminal. 
 
-## Building
+    Publicada en npm como paquete @angular/cli
+    Incluye el comando ng para interactuar con tu proyecto
+     
 
-To build the project run:
+🔧 Funcionalidades principales: 
 
-```bash
-ng build
-```
+    Generación automática de código (componentes, servicios, módulos, etc.)
+    Herramientas de construcción y optimización
+    Soporte para pruebas unitarias y end-to-end
+    Integración con builders y schematics personalizados
+     
 
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
+🔗 Más información sobre Angular CLI  
+ 
+🖥️ Servidor de desarrollo 
 
-## Running unit tests
+Para iniciar un servidor local de desarrollo: ng serve
+Una vez iniciado, abre tu navegador y accede a:
+👉 http://localhost:4200/ 
 
-To execute unit tests with the [Karma](https://karma-runner.github.io) test runner, use the following command:
+La aplicación se recargará automáticamente al guardar cambios en los archivos fuente. 
+ 
+🧱 Estructuración de código (Scaffolding) 
 
-```bash
-ng test
-```
+Angular CLI incluye herramientas avanzadas de generación de código.
+Ejemplo: Crear un nuevo componente: ng generate component nombre-del-componente
+Ver todas las opciones disponibles: ng generate --help
 
-## Running end-to-end tests
+📸 Capturas de pantalla
 
-For end-to-end (e2e) testing, run:
+1:
 
-```bash
-ng e2e
-```
+<img width="687" height="182" alt="imagen" src="https://github.com/user-attachments/assets/e78723f3-becc-40f2-b788-dcaf989210f7" />
 
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
 
-## Additional Resources
 
-For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
+2:
+
+<img width="1127" height="461" alt="imagen" src="https://github.com/user-attachments/assets/5e33bb86-eecc-4f97-bc89-69396ed73ecb" />
+
+
+
+3:
+
+<img width="419" height="461" alt="imagen" src="https://github.com/user-attachments/assets/c4d4dda6-b11e-4130-9b60-0a345a37e562" />
+
+
+🔗 Enlaces importantes 
+
+👉 Ver aplicación en GitHub Pages  
+
+
+📦 Descarga o clona los componentes: 
+https://material.angular.dev/components/form-field/overview
